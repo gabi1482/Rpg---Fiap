@@ -1,0 +1,6 @@
+@Rpg___Fiap_HostAddress = http://localhost:5250
+
+GET {{Rpg___Fiap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
